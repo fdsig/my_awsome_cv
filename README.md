@@ -22,3 +22,5 @@
 [**Awesome-CV**](https://github.com/posquit0/Awesome-CV)
 
 [**LaTeX**](http://www.latex-project.org) 
+
+[DM Sans](https://fonts.google.com/specimen/DM+Sans)
